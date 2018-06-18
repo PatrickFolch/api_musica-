@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+}
+
+.lista{
+    margin-top:30px;
+    background-color: teal;
+    min-height: 150px;
+    min-width: 200px;
+    padding: 30px;
+    
+}
+
+#reproductor{
+background-color: blue;
+min-width: 250px;
+min-height: 400px;
+margin-top: 30px;
+padding: 30px;
+}
+
+body{
+    background-color: orangered;
+}
